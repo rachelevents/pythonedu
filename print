@@ -1,0 +1,3 @@
+print() - function to display smth
+Exmaple:
+print('Hello, world!')  # display message "Hello, world"
